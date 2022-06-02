@@ -87,7 +87,7 @@ need to be addressed before moving forward with our analysis:
 
 Of the 25728 TOTAL Orders in our dataframe, 3434 contained chairs (13%)  
 Of the 861 orders containing Tables, 322 of them contained chairs (37%)  
-***People who bought tables were almost 3 times more likely to buy chairs***  
+***Tables do drive traffic to other, more profitable sales categories***  
   
   
 ## Moving Forward
